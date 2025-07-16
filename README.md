@@ -61,9 +61,8 @@ This project simulates the **end-to-end HR analytics workflow** by visualizing e
 
 | Overview | Details View |
 |--------------|--------------|
-| ![Overview](<img width="1407" height="807" alt="Overview" src="https://github.com/user-attachments/assets/690d0ea9-bcd7-44df-999f-7f5000dddb6c" />
-) | ![Details](<img width="1408" height="811" alt="Details" src="https://github.com/user-attachments/assets/0c4cc741-b1ae-4142-9260-03cf3b8cd6de" />
-) |
+| <img width="1407" height="807" alt="Overview" src="https://github.com/user-attachments/assets/690d0ea9-bcd7-44df-999f-7f5000dddb6c" />
+| <img width="1408" height="811" alt="Details" src="https://github.com/user-attachments/assets/0c4cc741-b1ae-4142-9260-03cf3b8cd6de" />|
 
 ## 🚀 Future Enhancements
 
